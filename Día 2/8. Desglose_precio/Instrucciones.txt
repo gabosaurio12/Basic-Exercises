@@ -1,0 +1,6 @@
+Instrucciones
+Crear un programa que te diga el precio de un producto sin IVA (neto) y el IVA de este.
+El IVA es el 16% de un precio.
+
+¡Ya es el último del día!
+¡TÚ PUEDES!

@@ -1,0 +1,4 @@
+Instrucciones
+Hacer un programa que calcule el área de un círculo sabiendo su radio (pi = 3.1416)
+
+Ánimo!

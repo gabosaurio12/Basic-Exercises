@@ -1,0 +1,4 @@
+Instrucciones
+Hacer un programa que diga si un número leído es positivo o negativo.
+
+¡Tu puedes!

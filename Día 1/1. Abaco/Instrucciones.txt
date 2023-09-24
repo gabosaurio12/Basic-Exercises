@@ -1,0 +1,7 @@
+Instrucciones
+Desarrollar un programa que sume dos números
+
+Instrucciones
+Hacer un programa que calcule la suma de dos números
+
+Suerte!

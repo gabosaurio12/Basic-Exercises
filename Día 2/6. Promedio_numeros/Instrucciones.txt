@@ -1,0 +1,4 @@
+Instrucciones
+Programa que lea cuantos números se van a ingresar y luego promedie todos los números ingresados.
+
+¡Suerte!

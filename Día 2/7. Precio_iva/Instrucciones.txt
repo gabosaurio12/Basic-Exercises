@@ -1,0 +1,5 @@
+Instrucciones
+Hacer un programa que calcule el precio con IVA de un producto.
+El IVA es el 16% de un precio.
+
+¡ÁNIMO!
