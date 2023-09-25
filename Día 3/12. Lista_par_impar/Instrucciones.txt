@@ -1,0 +1,4 @@
+Instrucciones
+Hacer un programa que imprima una lista del 1 hasta n y te diga qué números son pares y cuales impares.
+
+Felicidades!

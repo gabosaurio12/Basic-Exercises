@@ -1,0 +1,4 @@
+Instrucciones
+Crear un programa que haga una lista del 1 hasta el número introducido.
+
+Éxito!

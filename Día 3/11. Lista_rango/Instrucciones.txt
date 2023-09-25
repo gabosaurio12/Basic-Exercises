@@ -1,0 +1,4 @@
+Instrucciones
+Crear un programa que lea un número e inicie un contador en ese número y después lea otro número que marque el final del contador. Se debe imprimir el contador. Hacerlo con FOR, WHILE, REPEAT (DoWhile)
+
+Tú puedes!

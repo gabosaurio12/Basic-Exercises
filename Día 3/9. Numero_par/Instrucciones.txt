@@ -1,0 +1,4 @@
+Instrucciones
+Crear un programa que te diga si un numero leído es par o impar.
+
+Suerte!
