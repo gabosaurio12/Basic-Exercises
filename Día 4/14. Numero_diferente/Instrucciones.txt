@@ -1,0 +1,4 @@
+Instrucciones
+Hacer un programa que lea dos números y te diga si son iguales o diferentes.
+
+Éxito!

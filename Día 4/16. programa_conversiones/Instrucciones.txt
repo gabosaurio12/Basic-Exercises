@@ -1,0 +1,6 @@
+Instrucciones
+Hacer un programa que convierta: metros a centímetros, pulgadas a centímetros, centímetros a metros y centímetros a pulgadas.
+1 in = 2.54 cm
+1 m = 100 cm
+
+FELICIDADES!

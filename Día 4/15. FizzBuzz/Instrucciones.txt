@@ -1,0 +1,4 @@
+Instrucciones
+Hacer un programa que haga una lista del 1 al 100 y cada número que sea múltiplo del 3 lo sustituya por la palabra "Fizz", cada número que sea múltiplo del 5 lo sustituya por "Buzz" y cuando sean múltiplos de ambos se sustituya por "FizzBuzz".
+
+Mucha suerte!

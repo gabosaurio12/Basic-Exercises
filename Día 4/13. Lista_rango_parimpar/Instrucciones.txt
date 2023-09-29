@@ -1,0 +1,5 @@
+Instrucciones
+Hacer un programa que en un rango de numeros dados imprima cuales son pares o Suerte.
+
+impares
+
