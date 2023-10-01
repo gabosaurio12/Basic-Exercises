@@ -1,0 +1,6 @@
+Instrucciones
+
+Hacer un programa que calcule la hora al siguiente segundo.
+No mires el ejercicio hecho en clase, crea tu propia solución :D
+
+Mucha suerte!

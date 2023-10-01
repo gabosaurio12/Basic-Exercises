@@ -1,0 +1,6 @@
+Instrucciones
+
+Hacer un programa que calcule si un año es bisiesto.
+No mires las soluciones hechas en clase.
+
+GL!

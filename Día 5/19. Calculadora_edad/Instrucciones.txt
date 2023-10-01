@@ -1,0 +1,6 @@
+Instrucciones
+
+Crear un programa que calcule tu edad exacta.
+No mires la solución ya hecha en clase.
+
+Suerte!!!

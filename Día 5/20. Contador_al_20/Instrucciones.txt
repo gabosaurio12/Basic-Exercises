@@ -1,0 +1,7 @@
+Instrucciones
+
+Crear un programa que escriba el número 1 una vez, el 2 dos veces, el 3 tres veces hasta el 20 veinte veces.
+No mires la solución ya dada.
+
+Felicidades! Lo lograste!
+Tú puedes!!!

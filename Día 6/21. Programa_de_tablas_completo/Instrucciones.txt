@@ -1,0 +1,5 @@
+Instrucciones
+
+Hacer un programa que calcule las tablas de multiplicar, que primero pregunte si quiere ver solo una tabla o del 2 al 10 y luego las imprima en pantalla.
+
+Ánimo!

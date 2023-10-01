@@ -1,0 +1,10 @@
+Hola, si llegaste hasta acá quiere decir que has solucionado los problemas anteriores con éxito.
+Para este último ejercicio no tendrás una solución que puedas ver.
+
+Instrucciones
+Diseñar un algoritmo que simule un MENÚ de cafetería, deberá tener: 5 platillos como mínimo, 5 bebidas y 8 snacks o dulces.
+Deberás hacer las 3 fases de desarrollo de un programa y por último codificarlo en C++.
+Una vez que termines, deberás mostrárselo a las personas que funcionarán como "testers" y se espera que encuentren errores, sino los encuentran, FELCIDIDADES! Hiciste un programa perfecto.
+
+Yo sé que tu puedes!
+¡ÁNIMO Y ÉXITO!
