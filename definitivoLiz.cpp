@@ -125,6 +125,19 @@ void catalogo(producto a[], int n){
 	}
 }
 
+void prodMenoresaN(producto a[], int max, int n){
+	producto filtro[50];
+	int band = 1;
+	int i = 0;
+	while(a[i].clave != ""){
+		if(a[i].cantidad < max){
+			filtro[i] = a[i];
+			cout << "   " << filtro[i].cantidad << "\t\t" << filtro[i].nombre << "\n";
+		}
+		i++;
+	}
+}
+
 
 int main(){
 	producto peliculas[49];
@@ -133,11 +146,23 @@ int main(){
 	// arreglos de prueba, se pueden borrar
 	peliculas[0].clave = "1234";
 	peliculas[0].nombre = "Dead Poets Society";
+	peliculas[0].cantidad = 10;
 	peliculas[1].clave = "2345";
 	peliculas[1].nombre = "Star Wars";
+	peliculas[1].cantidad = 20;
 	peliculas[2].clave = "3456";
 	peliculas[2].nombre = "Harry Potter";
-	
+	peliculas[2].cantidad = 30;
+	peliculas[3].clave = "4567";
+	peliculas[3].nombre = "Minions";
+	peliculas[3].cantidad = 57;
+	peliculas[4].clave = "5678";
+	peliculas[4].nombre = "The Breakfast Club";
+	peliculas[4].cantidad = 8;
+	peliculas[5].clave = "6789";
+	peliculas[5].nombre = "Superman";
+	peliculas[5].cantidad = 3;
+
 	while (1){
 		int opcion;
 		
@@ -176,6 +201,9 @@ int main(){
 				int max;
 				cout << "Ingresa el numero de existencia maximo que deben tener los productos \n";
 				cin >> max;
+				cout << "Las peliculas cuya existencia es menor a " << max << " es \n";
+				cout << "Cantidad \t\tNombre \n\n";
+				prodMenoresaN(peliculas,max,n);
 				
 				break;
 
